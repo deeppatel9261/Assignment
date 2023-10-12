@@ -1,0 +1,12 @@
+For this Assignment i have used visual basic
+1. Open the sheet i have attached in repo
+2. Download this sheet in your system 
+3. Open this sheet
+4. Now go on view tab
+5. From view tab select macros
+6. Now form macros menu , click on view macro
+7. Now you will see all the three macro which are 3. Different task
+8. Select the macro and run it .
+9. Now go in file in which you have saved your downloaded sheet .
+10. Here you will get output file for ever macro(task)run 
+11. Open file to see output.
